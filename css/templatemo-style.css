@@ -408,7 +408,7 @@ http://www.templatemo.com/tm-515-eatery
   }
 
   .slider .item-first {
-    background-image: url(../img/sliderimg.png);
+    background-image: url(../img/sliderimg.png) style=height:200;
   }
 
   .slider .item-second {
