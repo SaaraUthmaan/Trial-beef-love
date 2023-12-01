@@ -90,14 +90,16 @@ http://www.templatemo.com/tm-515-eatery
 
   .section-title {
     padding-bottom: 40px;
+    text-color: #111111;
   }
 
   .section-title h2 {
     margin: 0;
+    text-color: #111111;
   }
 
   .section-title h4 {
-    color: #bfbdbd;
+    color: #111111;
     font-size: 10px;
     letter-spacing: 1px;
     text-transform: uppercase;
