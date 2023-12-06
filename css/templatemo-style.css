@@ -649,7 +649,7 @@ http://www.templatemo.com/tm-515-eatery
       TESTIMONIAL             
   -----------------------------------------*/
   #testimonial {
-    background: url('../images/4980557_5461996_pm-500x709 (2).jpg') center center no-repeat;
+    background-color: red;
     background-size: cover;
   }
 
